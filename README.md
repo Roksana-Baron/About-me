@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Roksana
 - 👀 I’m interested in new technologies and analytical tasks
 - 🌱 I’m currently learning Python, SQL
+- 🌱 I was studying biomedical engineering, where I've get interested in programming
 - 💞️ I’m looking to collaborate on new projects 
 
 <!---
